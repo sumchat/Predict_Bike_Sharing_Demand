@@ -23,12 +23,15 @@ TODO: I would spend more time in feature selection and then on trying how to cha
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 
+![image](https://user-images.githubusercontent.com/6456871/185815286-91436e56-ee40-4d2a-86ec-57aff26dd2c2.png)
 
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
+![image](https://user-images.githubusercontent.com/6456871/185815293-e638f59c-7480-42a0-9885-b7232e0216f4.png)
 
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
+![image](https://user-images.githubusercontent.com/6456871/185815309-a75da773-ee7d-4251-b6b1-a36b1aee78e3.png)
 
 
 ## Summary
